@@ -1,1 +1,1 @@
-# tanitimonleyici
+# Tanıtım Önleyici
